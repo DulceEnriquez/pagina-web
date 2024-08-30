@@ -1,0 +1,27 @@
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+  }
+.hola{
+    background-color: rgb(255, 223, 180);
+}
+
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.parrafo-barra{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+.navbar {
+    background-color: rgb(241, 186, 103);
+}
+.card{
+        margin: 5px;
+}
